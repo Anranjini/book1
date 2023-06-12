@@ -33,7 +33,7 @@
 		}
 	},
 	 "schedule": [
-    "every Hour"
+    "every hour"
   ],
 	"autodiscover": true,
 	"enabled": true
