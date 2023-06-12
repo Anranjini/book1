@@ -10,9 +10,7 @@
 			]
 		}
 	],
-	"schedule": [
-		"every Hour"
-	],
+	
 	"versioning": {
 		"default": "lockFileMaintenance",
 		"lockFileMaintenance": {
@@ -34,6 +32,9 @@
 			}
 		}
 	},
+	 "schedule": [
+    "every Hour"
+  ],
 	"autodiscover": true,
 	"enabled": true
 }
